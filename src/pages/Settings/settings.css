@@ -1,0 +1,5 @@
+/* Settings page reuses auth styles */
+.auth-form{display:flex;flex-direction:column;gap:10px}
+.auth-form label{display:flex;flex-direction:column}
+.auth-form input{padding:10px;border:1px solid #e8e8e8;border-radius:6px}
+.account-card{background:#fff;padding:18px;border-radius:8px;border:1px solid #f3f3f3;max-width:720px}

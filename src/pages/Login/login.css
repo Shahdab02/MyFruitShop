@@ -1,0 +1,11 @@
+/* Auth (login) styles */
+.auth-page{max-width:520px;margin:0 auto}
+.auth-form{display:flex;flex-direction:column;gap:10px}
+.auth-form label{display:flex;flex-direction:column;font-size:0.9rem;color:#333}
+.auth-form input{padding:10px;border:1px solid #e8e8e8;border-radius:6px}
+.auth-form textarea{min-height:100px;padding:10px;border-radius:8px;border:1px solid #e8e8e8}
+.login-card{background:linear-gradient(180deg,#fff,#fff9f2);padding:18px;border-radius:10px;max-width:520px}
+.form-error{background:#fff0f0;color:#900;padding:8px;border-radius:6px;border:1px solid #ffd0d0}
+.socials{display:flex;gap:8px;margin-top:8px}
+.social-btn{flex:1;padding:10px;border-radius:6px;border:1px solid #eee;background:#fff;cursor:pointer}
+.divider{margin-top:12px;color:#888;font-size:0.9rem}
